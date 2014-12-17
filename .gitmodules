@@ -34,3 +34,12 @@
 [submodule "bundle/nerdcommenter"]
 	path = bundle/nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter
+[submodule "bundle/Wombat"]
+	path = bundle/Wombat
+	url = https://github.com/vim-scripts/Wombat
+[submodule "bundle/desert.vim"]
+	path = bundle/desert.vim
+	url = https://github.com/fugalh/desert.vim
+[submodule "bundle/vim-easymotion"]
+	path = bundle/vim-easymotion
+	url = https://github.com/Lokaltog/vim-easymotion
