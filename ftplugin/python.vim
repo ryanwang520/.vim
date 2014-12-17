@@ -4,3 +4,7 @@ setlocal shiftwidth=4
 setlocal textwidth=80
 setlocal smarttab
 setlocal expandtab
+
+nmap <leader>r :w<cr>:!python  %:p<cr>
+set foldmethod=indent
+
