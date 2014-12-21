@@ -25,9 +25,6 @@
 [submodule "bundle/vim-gitgutter"]
 	path = bundle/vim-gitgutter
 	url = https://github.com/airblade/vim-gitgutter
-[submodule "bundle/desert.vim"]
-	path = bundle/desert.vim
-	url = https://github.com/fugalh/desert.vim
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree
@@ -37,15 +34,18 @@
 [submodule "bundle/rust.vim"]
 	path = bundle/rust.vim
 	url = https://github.com/wting/rust.vim.git
-[submodule "bundle/python-mode"]
-	path = bundle/python-mode
-	url = git@github.com:klen/python-mode.git
-[submodule "bundle/FuzzyFinder"]
-	path = bundle/FuzzyFinder
-	url = https://github.com/vim-scripts/FuzzyFinder
-[submodule "bundle/L9"]
-	path = bundle/L9
-	url = https://github.com/vim-scripts/L9
 [submodule "bundle/vim-unimpaired"]
 	path = bundle/vim-unimpaired
 	url = https://github.com/tpope/vim-unimpaired.git
+[submodule "bundle/gundo.vim"]
+	path = bundle/gundo.vim
+	url = https://github.com/sjl/gundo.vim.git
+[submodule "bundle/vim-python-combined"]
+	path = bundle/vim-python-combined
+	url = https://github.com/mitsuhiko/vim-python-combined
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/badwolf"]
+	path = bundle/badwolf
+	url = https://github.com/sjl/badwolf.git
