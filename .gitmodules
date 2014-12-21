@@ -46,6 +46,12 @@
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
-[submodule "bundle/badwolf"]
-	path = bundle/badwolf
-	url = https://github.com/sjl/badwolf.git
+[submodule "bundle/py_jump.vim"]
+	path = bundle/py_jump.vim
+	url = https://github.com/vim-scripts/py_jump.vim.git
+[submodule "bundle/fruity"]
+	path = bundle/fruity
+	url = https://github.com/mitsuhiko/fruity-vim-colorscheme.git
+[submodule "bundle/molokai"]
+	path = bundle/molokai
+	url = https://github.com/tomasr/molokai.git
