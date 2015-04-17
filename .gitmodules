@@ -82,7 +82,3 @@
 	path = bundle/vim-airline
 	url = https://github.com/bling/vim-airline.git
         branch = master
-[submodule "bundle/python-mode"]
-	path = bundle/python-mode
-	url = https://github.com/klen/python-mode.git
-        branch = develop
