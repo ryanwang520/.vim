@@ -46,9 +46,9 @@
 	path = bundle/vim-unimpaired
 	url = https://github.com/tpope/vim-unimpaired.git
         branch = master
-[submodule "bundle/syntastic"]
-	path = bundle/syntastic
-	url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/ale"]
+	path = bundle/ale
+	url = https://github.com/dense-analysis/ale.git
         branch = master
 [submodule "bundle/fruity"]
 	path = bundle/fruity
