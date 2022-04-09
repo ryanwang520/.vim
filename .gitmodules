@@ -50,14 +50,6 @@
 	path = bundle/ale
 	url = https://github.com/dense-analysis/ale.git
         branch = master
-[submodule "bundle/fruity"]
-	path = bundle/fruity
-	url = https://github.com/mitsuhiko/fruity-vim-colorscheme.git
-        branch = master
-[submodule "bundle/molokai"]
-	path = bundle/molokai
-	url = https://github.com/fatih/molokai.git
-        branch = master
 [submodule "bundle/vim-go"]
 	path = bundle/vim-go
 	url = https://github.com/fatih/vim-go.git
