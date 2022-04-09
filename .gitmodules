@@ -58,10 +58,6 @@
 	path = bundle/molokai
 	url = https://github.com/fatih/molokai.git
         branch = master
-[submodule "bundle/vim-ruby"]
-	path = bundle/vim-ruby
-	url = https://github.com/vim-ruby/vim-ruby.git
-        branch = master
 [submodule "bundle/vim-go"]
 	path = bundle/vim-go
 	url = https://github.com/fatih/vim-go.git
