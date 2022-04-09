@@ -70,10 +70,6 @@
 	path = bundle/vim-snippets
 	url = https://github.com/honza/vim-snippets.git
         branch = master
-[submodule "bundle/vim-indent-guides"]
-	path = bundle/vim-indent-guides
-	url = https://github.com/nathanaelkane/vim-indent-guides.git
-        branch = master
 [submodule "bundle/vim-airline"]
 	path = bundle/vim-airline
 	url = https://github.com/bling/vim-airline.git
