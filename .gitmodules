@@ -71,9 +71,6 @@
 [submodule "bundle/typescript-vim"]
 	path = bundle/typescript-vim
 	url = https://github.com/leafgarland/typescript-vim
-[submodule "fzf"]
-	path = bundle/fzf
-	url = https://github.com/junegunn/fzf
 [submodule "bundle/vim-jsx"]
 	path = bundle/vim-jsx
 	url = https://github.com/mxw/vim-jsx
