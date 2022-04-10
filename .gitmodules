@@ -86,3 +86,6 @@
 [submodule "bundle/onedark"]
 	path = bundle/onedark
 	url = https://github.com/joshdick/onedark.vim
+[submodule "bundle/fzf.vim"]
+	path = bundle/fzf.vim
+	url = https://github.com/junegunn/fzf.vim
