@@ -34,10 +34,6 @@
 	path = bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree
         branch = master
-[submodule "bundle/ack.vim"]
-	path = bundle/ack.vim
-	url = https://github.com/mileszs/ack.vim
-        branch = master
 [submodule "bundle/vim-unimpaired"]
 	path = bundle/vim-unimpaired
 	url = https://github.com/tpope/vim-unimpaired.git
