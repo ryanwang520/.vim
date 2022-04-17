@@ -73,3 +73,6 @@
 [submodule "bundle/nord-vim"]
 	path = bundle/nord-vim
 	url = https://github.com/arcticicestudio/nord-vim
+[submodule "bundle/vim-prettier"]
+	path = bundle/vim-prettier
+	url = https://github.com/prettier/vim-prettier
